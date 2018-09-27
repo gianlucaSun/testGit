@@ -18,5 +18,7 @@ public class Persona {
 	public void setSurname(String surname) {
 		this.surname = surname;
 	}
+	
+	public void stampa() {}
 
 }
