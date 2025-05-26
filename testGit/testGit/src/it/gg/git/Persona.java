@@ -5,6 +5,7 @@ public class Persona {
 	private String name;
 	private String surname;
 	private String squadra;
+	private String citta;
 	
 	
 	public String getName() {
