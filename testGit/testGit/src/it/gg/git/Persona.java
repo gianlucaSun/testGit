@@ -4,6 +4,7 @@ public class Persona {
 	
 	private String name;
 	private String surname;
+	private String squadra;
 	
 	
 	public String getName() {
