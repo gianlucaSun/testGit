@@ -20,6 +20,6 @@ public class Persona {
 		this.surname = surname;
 	}
 	
-	public void stampa() {System.out.println("Ciaooo... ");}
+	public void stampa() {System.out.println("Ciaooo...2 ");}
 
 }
